@@ -6,7 +6,7 @@ USed Technologies :
 - Vuex
 - Vue-Router
 
-yu can see a preview [here](shorturl.at/opCDV)
+yu can see a preview [here](https://ahmed-elbessfy.github.io/tourist-company/#/)
 
 to try it locally:
 
